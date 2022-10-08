@@ -1,0 +1,10 @@
+C:\Users\mohammed\Desktop\Projects\windows forms\tutorial\FileOperations\FileOperations\bin\Debug\FileOperations.exe.config
+C:\Users\mohammed\Desktop\Projects\windows forms\tutorial\FileOperations\FileOperations\bin\Debug\FileOperations.exe
+C:\Users\mohammed\Desktop\Projects\windows forms\tutorial\FileOperations\FileOperations\bin\Debug\FileOperations.pdb
+C:\Users\mohammed\Desktop\Projects\windows forms\tutorial\FileOperations\FileOperations\obj\Debug\FileOperations.csprojAssemblyReference.cache
+C:\Users\mohammed\Desktop\Projects\windows forms\tutorial\FileOperations\FileOperations\obj\Debug\FileOperations.Form1.resources
+C:\Users\mohammed\Desktop\Projects\windows forms\tutorial\FileOperations\FileOperations\obj\Debug\FileOperations.Properties.Resources.resources
+C:\Users\mohammed\Desktop\Projects\windows forms\tutorial\FileOperations\FileOperations\obj\Debug\FileOperations.csproj.GenerateResource.cache
+C:\Users\mohammed\Desktop\Projects\windows forms\tutorial\FileOperations\FileOperations\obj\Debug\FileOperations.csproj.CoreCompileInputs.cache
+C:\Users\mohammed\Desktop\Projects\windows forms\tutorial\FileOperations\FileOperations\obj\Debug\FileOperations.exe
+C:\Users\mohammed\Desktop\Projects\windows forms\tutorial\FileOperations\FileOperations\obj\Debug\FileOperations.pdb
